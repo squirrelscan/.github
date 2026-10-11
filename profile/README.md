@@ -1,6 +1,6 @@
 # squirrelscan 🐿️
 
-Website auditing tool for the cli and cloud - audit websites for performance, security, seo and 250+ other rules. 
+Website auditing tool for the cli and cloud - audit websites for performance, security, seo and 300+ other rules. 
 
 ## Install
 
